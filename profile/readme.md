@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to the EDM Lab! We are a collective of developers, data scientists, and IT enthusiasts dedicated to exploring the intersection of data and technology. Whether it's building robust database architectures, deploying ML models, or mastering the latest in DevOps, we believe in learning by doing.<br><br>From our annual General Welcome & Education (GWE) events to our deep-dive labs in Python and Laravel, we are more than just a lab—we are a launchpad for future IT leaders.
+Welcome to the EDM Lab! We are a collective of developers, data scientists, and IT enthusiasts dedicated to exploring the intersection of data and technology. Whether it's building robust database architectures, deploying ML models, or mastering the latest in DevOps, we believe in learning by doing.<br><br>From our annual General Welcome & Education (GWE) events to our deep-dive labs in Data Driven Process, we are more than just a lab—we are a launchpad for future IT leaders.
 
 
 ## 🌐 Socials:
