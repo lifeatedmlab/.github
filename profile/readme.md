@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=EDM%20Lab&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">📊 Educational Data Mining Lab</h1>
+<h1 align="center">📊 Enterprise Data Management Laboratory</h1>
 
 <p align="center">
 Advancing research and innovation in <b>Artificial Intelligence</b>, <b>Educational Data Mining</b>, and <b>Learning Analytics</b>.
